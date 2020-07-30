@@ -12,6 +12,9 @@ h1{
     position: fixed;
     top: 30px;
 } */
+nav{
+    width:auto;
+}
 a{
     background-color: azure;
     display: inline-block;
