@@ -31,35 +31,42 @@ a:hover{
 img{
     width: 55%;
     margin: 10px;
+    margin: auto;
 }
 
 #sec1{
     width: 48%;
+    margin: auto;
+    float: left;
 }
 #sec2{
     width: 40%;
-    position: absolute;
-    top: 130Px;
-    right: 10px;
+    position: relative;
+    top: 3px;
+    right: 1%;
+    float: right;
     
 }
 #sec3{
     width: 40%;
-    position: absolute;
-    top: 300Px;
-    right: 10px;
+    position: relative;
+    top: 3px;
+    right: 1%;
+    float: right;
 }
 #sec4{
     width: 40%;
-    position: absolute;
-    top: 500Px;
-    right: 10px;
+    position: relative;
+    top: 3px;
+    right: 1%;
+    float: right;
 }
 #sec5{
     width: 40%;
-    position: absolute;
-    top: 700Px;
-    right: 10px;
+    position: relative;
+    top: 3px;
+    right: 1%;
+    float: right
 }
 a:active{
     background-color: white;
